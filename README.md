@@ -7,10 +7,10 @@ Based on:
 
 ## How to Run this app
 
-- clone this repo
-- `npm install`
-- `npm start`
-- open `localhost:8080` (built and served by Webpack)
+1. clone this repo
+2. `npm install`
+3. `npm start`
+4. open `localhost:8080` (built and served by Webpack)
 
 ## Applicaiton
 
@@ -18,8 +18,8 @@ Based on:
 
 The application has 2 modules and 3 components:
 
-* Agent
-- agent (ng1 component)
-* Listing
-- forsale-listings (ng2 component)
-- sold-listings (ng1 component)
+1. Agent Module
+> * agent (ng1 component)
+2. Listing Module
+> * forsale-listings (ng2 component)
+> * sold-listings (ng1 component)
